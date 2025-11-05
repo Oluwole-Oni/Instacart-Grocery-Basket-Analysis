@@ -14,7 +14,6 @@ This analysis focuses on uncovering sales patterns and customer segmentation opp
  - What classifications can be derived from demographic information, such as age, income, types of goods, and family status?
  - How do ordering habits differ among various customer profiles?
 
-
 **DATA**  
  Data used for this Instacart grocery analysis include: 
   - Customers
@@ -33,7 +32,20 @@ This analysis focuses on uncovering sales patterns and customer segmentation opp
  - Seaborn for visualization
  - Scipy for mathematicval computation
 
+**FOLDERS**  
+01 Project Management: Contain the project brief.
+
+02 Data: has two subfolders (Note: Data folder was not uploaded due to its large file size)  
+ - Original Data: Original datasets. 
+ - Prepared Data: Cleaned data used for analysis.
+  
+03 Scripts: Python code for the analysis, executed using Jupyter notebooks.
+
+04 Analysis: Contain all visualizations used for exploratory analysis and insight.
+
+05 Sent to Client: Final Excel presentation. 
+
 
  **NOTE**  
   Instacart is a real company that’s made their data available online. However, the contents of this project brief
- have been fabricated for the purpose of this Achievement.
+ have been fabricated for the purpose of this Project.
